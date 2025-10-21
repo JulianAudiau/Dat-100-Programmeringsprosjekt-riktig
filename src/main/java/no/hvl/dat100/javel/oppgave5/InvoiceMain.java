@@ -13,8 +13,17 @@ public class InvoiceMain {
         System.out.println("==============");
         System.out.println();
 
-        /*
-        TODO
+        Invoices.processInvoices(null);
+
+
+
+
+
+
+
+
+
+        /*hva
 
          Write code that uses the methods implemented in the Invoice-classes
 
@@ -22,3 +31,4 @@ public class InvoiceMain {
 
     }
 }
+
